@@ -363,7 +363,7 @@
    <text>
       <body>
          <div>
-            <pb facs="https://upload.wikimedia.org/wikipedia/commons/3/38/Inferno_Canto_4_four_bards.jpg"/>
+            <pb cert="high" facs="https://upload.wikimedia.org/wikipedia/commons/3/38/Inferno_Canto_4_four_bards.jpg" generatedBy="human" xml:space="default"/>
             <head>The Inferno: Canto IV</head>
             <byline><persName key="Dante Alighieri" ref="http://www.wikidata.org/entity/Q1067" cert="high" role="aut" type="real">Dante Alighieri</persName></byline>
             <lg n="1">
