@@ -1036,7 +1036,7 @@
             <lg n="20">
                <l n="58"><persName key="Abraham" ref="http://www.wikidata.org/entity/Q9181">Abraham</persName>, patriarch, and <placeName key="David" ref="http://www.wikidata.org/entity/Q41370">David</placeName>, king,</l>
                <l n="59"><persName key="Jacob" ref="http://www.wikidata.org/entity/Q289957">Israel</persName> with his <placeName key="Isaac" ref="http://www.wikidata.org/entity/Q671872">father</placeName> and his children,</l>
-               <l n="60">And Rachel, for whose sake he did so much,</l>
+               <l n="60">And <placeName key="Rachel" ref="http://www.wikidata.org/entity/Q207389">Rachel</placeName>, for whose sake he did so much,</l>
             </lg>
 
             <lg n="21">
