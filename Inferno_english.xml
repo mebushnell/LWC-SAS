@@ -299,7 +299,7 @@
 	"id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml?person_annotation_20250213142553168",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-02-13T14:25:53.168Z",
-	"dcterms:modified": "2025-02-13T14:25:53.168Z",
+	"dcterms:modified": "2025-02-17T15:35:25.162Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mebushnell",
 		"@type": [
@@ -530,7 +530,7 @@
 
             <lg n="28">
                <l n="82">After the voice had ceased and quiet was,</l>
-               <l n="83">Four mighty shades I saw approaching us;</l>
+               <l n="83"/>
                <l n="84">Semblance had they nor sorrowful nor glad.</l>
             </lg>
 
