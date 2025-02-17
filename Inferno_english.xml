@@ -695,85 +695,6 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml?place_annotation_20250217153837025",
-	"type": "oa:Annotation",
-	"dcterms:created": "2025-02-17T15:38:37.025Z",
-	"dcterms:modified": "2025-02-17T15:38:37.025Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/mebushnell",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Megan Bushnell"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml?place_annotation_20250217153837025#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml?place_annotation_20250217153837025#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/lg[20]/l/placeName"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:RealPlace",
-		"@id": "http://www.wikidata.org/entity/Q41370",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
 	"id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml?person_annotation_20250217153859420",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-02-17T15:38:59.420Z",
@@ -853,10 +774,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml?place_annotation_20250217153938486",
+	"id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml?person_annotation_20250217154144230",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-02-17T15:39:38.486Z",
-	"dcterms:modified": "2025-02-17T15:39:38.486Z",
+	"dcterms:created": "2025-02-17T15:41:44.230Z",
+	"dcterms:modified": "2025-02-17T15:41:44.230Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mebushnell",
 		"@type": [
@@ -867,7 +788,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml?place_annotation_20250217153938486#Target",
+		"@id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml?person_annotation_20250217154144230#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml",
@@ -881,14 +802,17 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml?place_annotation_20250217153938486#Selector",
+			"@id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml?person_annotation_20250217154144230#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/lg[20]/l[2]/placeName"
+			"rdf:value": "TEI/text/body/div/lg[20]/placeName/persName"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace",
-		"@id": "http://www.wikidata.org/entity/Q671872",
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://www.wikidata.org/entity/Q207389",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -897,7 +821,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -1035,8 +960,8 @@
 
             <lg n="20">
                <l n="58"><persName key="Abraham" ref="http://www.wikidata.org/entity/Q9181">Abraham</persName>, patriarch, and <placeName key="David" ref="http://www.wikidata.org/entity/Q41370">David</placeName>, king,</l>
-               <l n="59"><persName key="Jacob" ref="http://www.wikidata.org/entity/Q289957">Israel</persName> with his <placeName key="Isaac" ref="http://www.wikidata.org/entity/Q671872">father</placeName> and his children,</l>
-               <l n="60">And <placeName key="Rachel" ref="http://www.wikidata.org/entity/Q207389">Rachel</placeName>, for whose sake he did so much,</l>
+               <l n="59"><persName key="Jacob" ref="http://www.wikidata.org/entity/Q289957">Israel</persName> with his father and his children,</l>
+               And <placeName key="Rachel" ref="http://www.wikidata.org/entity/Q207389"><persName key="Rachel" ref="http://www.wikidata.org/entity/Q207389" cert="high" type="fictional"/>Rachel</placeName>, for whose sake he did so much,
             </lg>
 
             <lg n="21">
