@@ -215,10 +215,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml?place_annotation_20250213142432411",
+	"id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml?place_annotation_20250217154948002",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-02-13T14:24:32.411Z",
-	"dcterms:modified": "2025-02-17T15:49:48.002Z",
+	"dcterms:created": "2025-02-17T15:49:48.002Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mebushnell",
 		"@type": [
@@ -229,7 +228,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml?place_annotation_20250213142432411#Target",
+		"@id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml?place_annotation_20250217154948002#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml",
@@ -243,7 +242,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml?place_annotation_20250213142432411#Selector",
+			"@id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml?place_annotation_20250217154948002#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[15]/l[3]/placeName"
 		}
@@ -260,8 +259,7 @@
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
 	},
-	"cwrc:hasCertainty": "cwrc:high",
-	"cwrc:hasPrecision": "cwrc:UnknownCertainty"
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       
@@ -820,6 +818,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml?person_annotation_20250217155125246",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-02-17T15:51:25.246Z",
+	"dcterms:modified": "2025-02-17T15:51:25.246Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/mebushnell",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Megan Bushnell"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml?person_annotation_20250217155125246#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml?person_annotation_20250217155125246#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/lg[20]/l/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q41370",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
          <projectDesc>
             <p>This encoded file was created by members of the Linked Editing Academic Framework
@@ -926,7 +1003,7 @@
             <lg n="15">
                <l n="43">Great grief seized on my heart when this I heard,</l>
                <l n="44">Because some people of much worthiness</l>
-               <l n="45">I knew, who in that <placeName key="Limbo" ref="http://dbpedia.org/resource/Limbo" cert="high">Limbo<precision match="@ref" precision="Unknown"/></placeName> were suspended.</l>
+               <l n="45">I knew, who in that <placeName key="Limbo" ref="http://dbpedia.org/resource/Limbo" cert="high">Limbo</placeName> were suspended.</l>
             </lg>
 
             <lg n="16">
@@ -954,7 +1031,7 @@
             </lg>
 
             <lg n="20">
-               <l n="58"><persName key="Abraham" ref="http://www.wikidata.org/entity/Q9181">Abraham</persName>, patriarch, and David, king,</l>
+               <l n="58"><persName key="Abraham" ref="http://www.wikidata.org/entity/Q9181">Abraham</persName>, patriarch, and <persName key="David" ref="http://www.wikidata.org/entity/Q41370">David</persName>, king,</l>
                <l n="59"><persName key="Jacob" ref="http://www.wikidata.org/entity/Q289957">Israel</persName> with his father and his children,</l>
                <l n="60">And <persName key="Rachel" ref="http://www.wikidata.org/entity/Q207389">Rachel</persName>, for whose sake he did so much,</l>
             </lg>
