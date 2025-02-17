@@ -296,10 +296,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml?person_annotation_20250213142553168",
+	"id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml?person_annotation_20250217153525162",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-02-13T14:25:53.168Z",
-	"dcterms:modified": "2025-02-17T15:35:25.162Z",
+	"dcterms:created": "2025-02-17T15:35:25.162Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mebushnell",
 		"@type": [
@@ -310,7 +309,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml?person_annotation_20250213142553168#Target",
+		"@id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml?person_annotation_20250217153525162#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml",
@@ -324,7 +323,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml?person_annotation_20250213142553168#Selector",
+			"@id": "https://raw.githubusercontent.com/mebushnell/LWC-SAS/main/Inferno_english.xml?person_annotation_20250217153525162#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[19]/l/persName"
 		}
@@ -878,7 +877,7 @@
             <lg n="20">
                <l n="58"><persName key="Abraham" ref="http://www.wikidata.org/entity/Q9181">Abraham</persName>, patriarch, and David, king,</l>
                <l n="59"><persName key="Jacob" ref="http://www.wikidata.org/entity/Q289957">Israel</persName> with his father and his children,</l>
-               And <placeName key="Rachel" ref="http://www.wikidata.org/entity/Q207389">Rachel</placeName>, for whose sake he did so much,
+               And Rachel, for whose sake he did so much,
             </lg>
 
             <lg n="21">
